@@ -1,5 +1,5 @@
 # Specialization in Python
 
-## AIM Codeschool
+__AIM Codeschool__
 
 Examples and practice materials for AIM Specialization in Python course.
